@@ -1,0 +1,495 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 31
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "8": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "11": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "14": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "15": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "38": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "39": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "40": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "41": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "42": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "43": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "44": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "45": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "46": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "47": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "48": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "49": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "50": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "51": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "52": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 54
+  },
+  "Values": {
+    "6,20": "重置密码邮件发送成功",
+    "10,20": "重置密码的邮件已经发送到你的电子邮箱中。收到邮件后，请点击邮件中的链接。之后在弹出的网页中输入新密码。如果邮件没有送达，请与管理员联系。",
+    "18,20": "登录"
+  },
+  "AttachInfos": {
+    "18,20": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "FGC_登录",
+            "BreakpointIdentity": "b94b5519-0669-4d7c-884f-b5671359fde5"
+          }
+        ],
+        "Text": "登录",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333333333332,
+        "Foreground": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": true,
+        "Underline": false,
+        "Strikethrough": false
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Bold",
+        "Text 1 25",
+        "Text 1 50",
+        "Top"
+      ]
+    },
+    "CellStyles": {
+      "6,20": 0,
+      "10,20": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "FontSize": -999.0,
+      "Underline": false,
+      "Strikethrough": false
+    }
+  },
+  "Spans": [
+    "10,20,6,14",
+    "18,20,2,14",
+    "6,20,2,14"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "FGC_重置密码发送邮件成功_手机版",
+    "Title": "重置密码邮件发送成功",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "PropertyDefinitions": [],
+    "CommandDefinitions": [],
+    "MethodDefinitions": [],
+    "PageLoadedCommandList": [],
+    "IsBuiltInPage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "BackgroundPictures": [
+    {
+      "Name": "BackgroundPicture3",
+      "StyleInfo": {
+        "CornerRadius": 20.0,
+        "Fill": "#FFF6F6F8",
+        "StrokeDashType": 8,
+        "Stroke": "Background 1 -25",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "340,80",
+      "Size": "400,360"
+    }
+  ]
+}//IM/QTQcKSJO7/xPMci4BzkjC9VEjvCDfFKli1oG6zOhZlGzfVZ7vmFeXc9k2ERjzqXQXmPVpJ3OnqI7l43QChcteUHN/3WAs1jVGDhogEqQ68nZKcASD0Sa9X2fwduYq2kEcJlSlRpu4sitzhb2pT4P5+tcq2p3Apo8RQYeg7LSYKKrTdSXrbs7cUz2TZORmMuPl2aaT3EZRRbZVcmVTw9Ef10uzLiZ9LNhEQw/3ojxHe9cJzDBoetkJBhrcCjSci2WKed6V3UXSb+86Ny9OoxNTkjyL0biCX/Jpt7vyVLWsX3zJT+7NsTj0bX4y06KzSaHOd4oCGx1ApTYtksR6IKwxfy8HkebsZaCxAxSRl4ZqIpTQqPtFcsxbLzU+ju7/SuZlar4ydSPSl1Q31dVN95X26ad9TiY29D4THEaQsktHfhu5gJKO2ihL69V+fRbf3C37+lzdQg2a8NmtQ8xwtmSScwhIowB/FKy76fPLUFcB/ph61iQpY3/srcGSLYV01crU7CbiEaYR1Ce2JZmMTl83uIuomNU6IkTE20dkJ90it9kKdxlhPl5BF/DHFy2cNyPV6J/ix73dE+ysk+8eeCMTHHEur3WTP9WxXX/rGBMqjj7SwkuZ3Wf0VvyxV6XUx+i5cGCgo3ZDssrI7k8Q1gyDqcvkcnh9lSyc4AV70Z9zo79+fUT4hYsfx3qHsi+xD06radrfvy/lJnTHVolXgw8+vPo3jQoBqh4M6EgYIgOG76CyIFYW+gdUG3aMULSEBpLrxYLS3pG9NKBsEo7a1ASdy0WArNYwfsb5RW7BhPuXfUlPPXqBTDW0VmuPxTbLDmXotzM3kwngUytzEr2xDMPc0v/HP+Cd5C3istOnwQaOluCXPOsLy/HPz2KDOUlSNyDRXawm+bJ4ZfoCIIpQnJmHZANQ9rmPB4H2j/95zHE633EYmBwYZZ8q92aHgzG6fX4EFGUoaiAtkrGjb1iffMebbbMPdI4og1jkPhwVYLFah3k8bqkPH7zLBVd6ps0ZU1LWnJLaEOFV18sOh0w3ezMqeozQ8oGj7AlJiDCNXGF72x4xHlh/5mCxiqBh9MWjEFBRi5m6DFrfegBna7aU9HGCxBYTOfdbmid7K/WRV48GbhtyKrhd+SWzAZAXd986S9qdqssYR1kRFmGifkBwH/5k7uc7ts3M+EVZX/03LHGwu79m3iOhW3Z4e7byPFfwvFLafYfiPpcTT/FzLczjCeU1cV2USfdHjEj3Ww1OUw3U83w3k2hsg5eeyR3z7ksoBOVcp/zkmqraeWyqstOU8bPSBnKNWoM4Rgc5XBVSXdPx/+0g1MsEI0tiSYEwjkrMIg01yIG9S+5LjUj50W6uo68gxjxF6AllUDzo0Wycu7wUgHBfmbcDnCXyHKLVn/7ZdzrKn3l3shIIYc3nSKhYGeVfzUjOkBGnXMwXSQzf8CRKMnSg1fcwJg1K8wPc8dOXSxVFazv695MmVrmkoEFQjIUyVAqBFq8xhi5q7OMersL9uCuAUJN5H04zFQicfnF40rOXtxLg6PZDMghj3XBhWUg3PSKZ+AW50oXATZrYqS59txcMwnBF0EhUxU8LXcZgqzV2S5jbi9XTesU6TmUiLhQYp2sUxzeH8o8rT1hwIlSjVbLsGXCXfk9R2hi4uXyZtCqiFhRAWmzXJQoXs/hh47LPkJOZd2kqkzeEkfoegqRga3sq+30hachWhErmrxX2A41NQzXXJUV+EoPMWyt12N1tzKfLhqQpOn+sjK1OJidpygtJ8WbNOsUIguvpoa87Y3Hjfvw5yKyuivYNSydKGlo+ixizPeYBurbO62v/4WYxcbVdQbsqeI/EC6D1XaNscDfVVqOWOeKbhFD2DZf8BxA1yQyTTNrzM+f2HUaYCjxUku3YZcyhQZ+XZHYrJe4Ib5lBOADduRwUbzRyp4Scrg==|1944

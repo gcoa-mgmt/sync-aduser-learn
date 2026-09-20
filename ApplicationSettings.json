@@ -1,0 +1,45 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "JqC*UkE*LieR"
+  },
+  "ShareCommandContainers": [],
+  "ListviewLoadingIndicatorSettings": {},
+  "ServerPropertySecurityID": "188f66c7-adff-4acb-b4eb-e98bf04e616a",
+  "GlobalProperties": [],
+  "WebSitePort": 16294,
+  "UserServicePort": 65047,
+  "StartDateFiscalYear": 1,
+  "BaseOnStartingMonth": true,
+  "MultipleLanguageSettings": {
+    "Languages": [
+      {
+        "Name": "cn",
+        "IsDefault": true,
+        "Description": "内置语言中文，不可删除",
+        "IsBuildIn": true,
+        "LanguageAttribute": "zh-cn",
+        "FontFamily": "Body"
+      },
+      {
+        "Name": "en",
+        "Description": "内置语言英文，不可删除",
+        "IsBuildIn": true,
+        "LanguageAttribute": "en",
+        "FontFamily": "Calibri"
+      }
+    ],
+    "PublicResource": {},
+    "RuntimeBuiltInResource": {
+      "FrontEndResources": {},
+      "ServerResources": {},
+      "ProcessDesignerResource": {},
+      "ProcessTrackerResource": {}
+    },
+    "PluginResource": {}
+  },
+  "AppAIModelSettings": {
+    "AIModels": []
+  },
+  "AppMCPConfigSettingEncrypt": "CenjpRlR4GU38OalW0mjUw==",
+  "ServerCommandsAsMCPServerSetting": {}
+}
